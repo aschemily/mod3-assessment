@@ -1,0 +1,34 @@
+header{
+    height: 65px;
+    background-color: #abc3e3;
+    color: #CDD9E5;
+     display: flex; 
+    justify-content: space-between; 
+    padding: 0 25px;
+    text-align: center;
+    
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+}
+
+#name{
+    display: flex;
+    color: white;
+    font-size: 40px;
+    padding: 0;
+    margin: 0;
+}
+
+
+#profile-pic{
+    width: 60px;
+    border-radius: 50%;
+}
+
+.buttons{ 
+    background-color: yellow;
+    border-radius: 20px;
+    padding: 14px 28px;
+}
