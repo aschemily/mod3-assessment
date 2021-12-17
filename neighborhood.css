@@ -1,0 +1,18 @@
+*{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h1, h2{
+    font-family: 'Lobster', cursive;
+}
+
+#parks, img{
+    width: 300px;
+}
+
+#random-btn{
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 14px 28px;
+    font-size: 20px;
+}
